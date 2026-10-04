@@ -4,6 +4,8 @@ Turn your webcam into a meme generator! Make a facial expression or hand gesture
 
 No uploads, no backend, no installations. Just open the app, allow camera access, and start making faces.
 
+🌐 **Live Demo:** [![Netlify Status](https://img.shields.io/badge/Netlify-Live-00C7B7?logo=netlify&logoColor=white)](https://nitish-meme-verse.netlify.app/)
+
 ---
 
 ## 🚀 Features
